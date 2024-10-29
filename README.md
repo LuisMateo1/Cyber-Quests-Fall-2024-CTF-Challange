@@ -46,8 +46,10 @@ Using the given hint of applying a filter to the packet capture, it leads to one
 #
 Q8: Which country was the "destination" image taken in? and Q9: Who is the author of the destination image?
 
-The social media post image is that of a waterfall, a reverse image search reveals it's Anna Ruby Falls in Georgia. However, looking into the metadata of the image, reveals that its actually a screenshot of a picture. The screenshot was taken in Cambodia, by Sharon Lee. 
+The social media post image is that of a waterfall, a reverse image search reveals it's Anna Ruby Falls in Georgia. However, looking into the metadata of the image, reveals that its actually a screenshot of a picture. The screenshot was taken in Cambodia, by Sharon Lee.
+
+![image](https://github.com/user-attachments/assets/8b286c12-be92-461a-adcd-0f444d5381e5)
 
 Q10: What is the most logical reason that Devon would choose to hide in this location?
 
-The most likely reason Devon Lee would flee to Cambodia is the fear of being caught and charged for the crimes they committed. 
+The most likely reason Devon Lee would flee to Cambodia is the fear of being caught and charged for the crimes they've committed. 
