@@ -140,22 +140,40 @@ This URL: http://192.168.4.161/DVWA is the most common
 
 You are a new security analyst at a bank and are being asked to identify the 7 Social Security Numbers from the ssn.txt file that do not conform to the below requirements from the Social Security Administration. Based on the rule stated find the SSN that doesn't belong.
 #
+Q28: SSA will only issue SSNs which are 9 digits in the format XXX-XX-XXXX, Which SSN fails this rule?
+117-3-8427
 
-SSA will only issue SSNs which are 9 digits in the format XXX-XX-XXXX. Which SSN fails this rule?
+![image](https://github.com/user-attachments/assets/768b82ed-a2f7-4ff3-bcfb-7af30c1c6a8d)
+
+Q29: SSA will not issue SSNs which are duplicates, Which SSN fails this rule?
 
 
-Q31:
+Q30: SSA will not issue SSNs beginning with the number "9", Which SSN fails this rule?
+995-99-5192
+
+![image](https://github.com/user-attachments/assets/de391565-ba91-401b-b41f-9e4f0f92ac24)
+
+
+Q31: SSA will not issue SSNs beginning with the number "666" in positions 1 - 3, Which SSN fails this rule?
+666-37-3885
+
 ![image](https://github.com/user-attachments/assets/ec557b39-e20d-46b8-b361-6476eab6cbc9)
 
 
-Q32: 
+Q32: Which SSA will not issue SSNs beginning with the number "000" in positions 1 - 3, SSN fails this rule?
+000-97-7549
+
 ![image](https://github.com/user-attachments/assets/8f7dc2f1-aaaa-4240-bf41-3d3d8d186813)
 
 
-Q33: 
+Q33: SSA will not issue SSNs with the number "00" in positions 4 - 5, Which SSN fails this rule?
+378-00-7651
+
 ![image](https://github.com/user-attachments/assets/a33914d5-e340-458e-a98f-d97c36440c7c)
 
-Q34: 
+Q34: SSA will not issue SSNs with the number "0000" in positions 6 - 9, Which SSN fails this rule?
+571-63-0000
+
 ![image](https://github.com/user-attachments/assets/910994b1-62ed-4c38-aadb-97adc973d85e)
 
 
