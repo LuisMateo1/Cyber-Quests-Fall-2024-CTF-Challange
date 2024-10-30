@@ -70,7 +70,8 @@ Q12: Which tool did Alice use to encrypt the blueprint file?
 GnuPG allows you to encrypt and sign, data and communications
 #
 Q13: How many pages does the encrypted blueprint file contain?
-
+The passwrod for the encyrpted file is LIBERTEEGALITEFRATERNITE, these were the words included in the image file named key.png
+After using GPG to decrypt the file with the password, I saw that the file was 19 pages long
 #
 Q14: What network utility was downloaded through HTTP and used to exfil the PDF blueprint?
 
@@ -89,7 +90,7 @@ Q16: What tool was used to download the exfil tool?
 cURL: cURL can be used to download files, in this case it was used to download ncat from another host.
 #
 Q17: Recover the PDF blueprint that Donathan exfiltrated.  When were the blueprints prepared?
-
+Based on when the  cv-60 large aircraft carrier was built I chose a date before then, 5 January 1947. The most recent date in the files was June 25th, 2007
 #
 Q18: A file called "calc_target_offsets" was recovered from the computer hosting the blueprints.  What CVE was likely used by Donathan to gain access to the blueprints? and Q19: What is the name given to the security vulnerability Donathan used?
 
