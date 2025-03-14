@@ -1,4 +1,4 @@
-# Cyber Quests- Fall 2024 Capture The Flag Challenge
+# Cyber Quests - Fall 2024 Capture The Flag Challenge
 
 
 <h3>Part 1: Devon Lee</h3>
